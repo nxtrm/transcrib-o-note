@@ -1,3 +1,4 @@
 # transcrib-o-note
 
-This is a veery early version of program that I am making. It's supposed to download any video/podcast from the interned, convert it and summarize it as text
+What the script currently does is it downloads any video from the internet and uses OpenAI's whisper model to transcribe it word by word.
+As a result, a prompt is generated, which can be copied to ChatGPT, which would summarize the downloaded video.
